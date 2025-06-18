@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Conflict" language="en" table="x_1086601_hellowor_conflict">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Conflict</label>
+            <language>en</language>
+            <name>x_1086601_hellowor_conflict</name>
+            <plural>Conflicts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-18 03:26:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Conflict</sys_name>
+            <sys_package display_value="helloworld" source="x_1086601_hellowor">e4678e4483162e1052415f45feaad38c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="helloworld">e4678e4483162e1052415f45feaad38c</sys_scope>
+            <sys_update_name>sys_documentation_x_1086601_hellowor_conflict__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-18 03:26:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
